@@ -1,0 +1,13 @@
+Web-app for listing campsites(CRUD),
+Mongo DB with Mongoose,
+templating with EJS,
+JOI for data validation
+
+adding:
+    user authentication
+    reviews posted by users
+
+
+start server with 'mongod'
+    (to populate server with random content, run seeds/index.js file)
+run with 'node index.js'
